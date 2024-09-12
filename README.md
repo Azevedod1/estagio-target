@@ -34,3 +34,6 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 IMPORTANTE: 
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código; 
 b) Evite usar funções prontas, como, por exemplo, reverse; 
+
+
+OBS.: Questões realizadas e estudadas com apoio do Microsof Copilot Github Copilot
